@@ -2,8 +2,6 @@
 
 Driver class is left out on purpose.
 
-mvn archetype:generate -DgroupId=org.sivrim -DartifactId=ut -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
-
 Steps : 
 1. Write any custom Writable class you need
 1. Write tests for custom Writable class if needed
