@@ -1,5 +1,7 @@
 # Sample unit tests for map-reduce with Hadoop jars 2.6.0, mockito 3.3.3 and Junit 5.4.2. 
 
+While setting up my unit test environment, assembling the right versions of depdencies and writing the first set of tests took a bit of an effort. Hopefully this can help someone the near future, i.e. next couple of years. 
+
 Driver class is left out on purpose.
 
 Steps : 
